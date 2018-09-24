@@ -3,7 +3,7 @@
 
 ## Список скриптов
 
-### ВКонтакте: 
+### [ВКонтакте](https://github.com/AiratHalitov/social-scripts/tree/master/vk) 
 * `vk-wall-clean.js` Скрипт для очистки стены
 * `vk-event-users-clean.js` Скрипт для очистки пользователей групп и встреч
 * `vk-video-clean.js` Скрипт для очистки списка видео
