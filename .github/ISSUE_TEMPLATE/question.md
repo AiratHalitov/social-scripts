@@ -1,5 +1,5 @@
 ---
-name: Custom question
+name: Question
 about: Любые вопросы по поводу поддержки
 
 ---
