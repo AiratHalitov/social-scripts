@@ -11,7 +11,7 @@
 * ... список регулярно пополняется
 
 ### [Facebook](https://github.com/AiratHalitov/social-scripts/tree/master/facebook) 
-* `fb-possible-friends-clean.js` Скрипт для очистки списка возможных друзей
+* `fb-possible-friends-clean.js` Скрипт для очистки списка [возможных друзей](https://www.facebook.com/friends/requests/?fcref=swpsa)
 
 ## Как использовать?
 1. Зайти на нужную страницу соцсети и выбрать подходящий скрипт.
