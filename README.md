@@ -8,6 +8,7 @@
 * `vk-event-users-clean.js` Скрипт для очистки пользователей групп и встреч
 * `vk-video-clean.js` Скрипт для очистки списка видео
 * `vk-blacklist-clean.js` Скрипт для очистки черного списка
+* `vk-possible-friends-clean.js` Скрипт для очистки списка [возможных друзей](https://vk.com/friends?act=find)
 * ... список регулярно пополняется
 
 ### [Facebook](https://github.com/AiratHalitov/social-scripts/tree/master/facebook) 
