@@ -16,6 +16,10 @@
 * `fb-recommended-groups-clean.js` Скрипт для очистки списка [рекомендуемых групп](https://www.facebook.com/groups/?category=top)
 * ... список регулярно пополняется
 
+### [YouTube](https://github.com/AiratHalitov/social-scripts/tree/master/youtube) 
+* `yt-liked-video-clean.js` Скрипт для очистки списока понравившихся видео
+* ... список регулярно пополняется
+
 ## Как использовать?
 1. Зайти на нужную страницу соцсети и выбрать подходящий скрипт.
 1. Открыть панель разработчика в браузере и перейти в консоль.
