@@ -17,7 +17,7 @@
 * ... список регулярно пополняется
 
 ### [YouTube](https://github.com/AiratHalitov/social-scripts/tree/master/youtube) 
-* `yt-liked-video-clean.js` Скрипт для очистки списока понравившихся видео
+* `yt-liked-video-clean.js` Скрипт для очистки списка понравившихся видео
 * ... список регулярно пополняется
 
 ## Как использовать?
