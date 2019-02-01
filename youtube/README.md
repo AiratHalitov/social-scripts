@@ -1,6 +1,6 @@
 ## Скрипты для работы с соцсетью [YouTube](https://youtube.com)
 
-* скоро добавим...
+* `yt-liked-video-clean.js` Скрипт для очистки списока понравившихся видео
 
 ## Как внести свой вклад?
 Решили помочь в развитии проекта? Тогда вам нужен файл [CONTRIBUTING.md](https://github.com/AiratHalitov/social-scripts/blob/master/CONTRIBUTING.md)
