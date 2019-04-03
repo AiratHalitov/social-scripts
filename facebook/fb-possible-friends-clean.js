@@ -1,9 +1,11 @@
+// Скрипт для очистки списка возможных друзей
+// Запускать на странице https://www.facebook.com/friends/requests/?fcref=swpsa
 (function() {
     'use strict';
-    if (!confirm('Удалить возможных друзей?')) return;
-    var deletePostLink = document.body.querySelectorAll('div.friendBrowserAddAsFriend > a');
-    for (var i = 0; i < deletePostLink.length; i++) {
-        deletePostLink[i].click();
+    var mylist = document.body.querySelectorAll('div.friendBrowserAddAsFriend > a');
+    if (!confirm('Start: ' + mylist.length + '?')) return;
+    for (var i = 0; i < mylist.length; i++) {
+        mylist[i].click();
     }
-    alert(deletePostLink.length + ' user deleted');
+    alert('Finish: ' + mylist.length + '!');
 }());

@@ -1,9 +1,11 @@
+// Скрипт для очистки списка рекомендуемых групп
+// Запускать на странице https://www.facebook.com/groups/?category=top
 (function() {
     'use strict';
-    if (!confirm('Удалить рекомендуемые группы?')) return;
-    var deletePostLink = document.body.querySelectorAll('div._4-jm > button');
-    for (var i = 0; i < deletePostLink.length; i++) {
-        deletePostLink[i].click();
+    var mylist = document.body.querySelectorAll('div._4-jm > button');
+    if (!confirm('Start: ' + mylist.length + '?')) return;
+    for (var i = 0; i < mylist.length; i++) {
+        mylist[i].click();
     }
-    alert(deletePostLink.length + ' group deleted');
+    alert('Finish: ' + mylist.length + '!');
 }());
