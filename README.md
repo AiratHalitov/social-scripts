@@ -18,6 +18,10 @@
 * `fb-recommended-groups-clean.js` Скрипт для очистки списка [рекомендуемых групп](https://www.facebook.com/groups/?category=top)
 * ... список регулярно пополняется
 
+### [Twitter](https://github.com/AiratHalitov/social-scripts/tree/master/twitter)
+* Скрипт для очистки твитов: https://twitwipe.com/
+* ... список регулярно пополняется
+
 ### [YouTube](https://github.com/AiratHalitov/social-scripts/tree/master/youtube) 
 * `yt-liked-video-clean.js` Скрипт для очистки списка понравившихся видео
 * ... список регулярно пополняется
