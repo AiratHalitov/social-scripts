@@ -1,9 +1,11 @@
+// Скрипт для очистки списка понравившихся видео
+// Запускать на странице плейлиста с понравившимися видео
 (function() {
     'use strict';
-    if (!confirm('Очистить список видео?')) return;
-    var deletePostLink = document.body.querySelectorAll('div.pl-video-edit-options > button');
-    for (var i = 0; i < deletePostLink.length; i++) {
-        deletePostLink[i].click();
+    var mylist = document.body.querySelectorAll('div.pl-video-edit-options > button');
+    if (!confirm('Start: ' + mylist.length + '?')) return;
+    for (var i = 0; i < mylist.length; i++) {
+        mylist[i].click();
     }
-    alert(deletePostLink.length + ' video deleted');
+    alert('Finish: ' + mylist.length + '!');
 }());
