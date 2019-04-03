@@ -4,11 +4,13 @@
 ## Список скриптов
 
 ### [ВКонтакте](https://github.com/AiratHalitov/social-scripts/tree/master/vk) 
-* `vk-wall-clean.js` Скрипт для очистки стены
-* `vk-event-users-clean.js` Скрипт для очистки пользователей групп и встреч
-* `vk-video-clean.js` Скрипт для очистки списка видео
-* `vk-blacklist-clean.js` Скрипт для очистки черного списка
+* `vk-wall-clean.js`	Скрипт для очистки стены
+* `vk-event-users-clean.js`	Скрипт для очистки пользователей групп и встреч
+* `vk-video-clean.js`	Скрипт для очистки списка [видео](https://vk.com/video)
+* `vk-blacklist-clean.js` Скрипт для очистки [черного списка](https://vk.com/settings?act=blacklist)
 * `vk-possible-friends-clean.js` Скрипт для очистки списка [возможных друзей](https://vk.com/friends?act=find)
+* `vk-grp-subs-clean.js` Скрипт для удаления пользователей из группы по списку ID. Запускать [тут](https://vk.com/dev/groups.removeUser)
+* `vk-subs-clean.js` Скрипт для удаления подписчиков/друзей пользователя по списку ID. Запускать [тут]( https://vk.com/dev/account.ban). Через пару часов нужно почистить ЧС через `vk-blacklist-clean.js`
 * ... список регулярно пополняется
 
 ### [Facebook](https://github.com/AiratHalitov/social-scripts/tree/master/facebook) 
