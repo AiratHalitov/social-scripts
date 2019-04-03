@@ -22,7 +22,7 @@
 * ... список регулярно пополняется
 
 ### [Twitter](https://github.com/AiratHalitov/social-scripts/tree/master/twitter)
-* Скрипт для очистки твитов: https://twitwipe.com/
+* [TwitWipe](https://twitwipe.com/) - Скрипт для удаления всех опубликованных твитов в один клик
 * ... список регулярно пополняется
 
 ### [YouTube](https://github.com/AiratHalitov/social-scripts/tree/master/youtube) 
