@@ -1,5 +1,5 @@
 // Скрипт для очистки списка рекомендуемых групп
-// Запускать на странице https://www.facebook.com/groups/?category=top
+// Запускать на странице https://www.facebook.com/groups/?category=top (прокрутить страницу вниз до конца)
 (function() {
     'use strict';
     var mylist = document.body.querySelectorAll('div._4-jm > button');

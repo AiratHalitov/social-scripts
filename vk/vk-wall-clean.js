@@ -1,5 +1,5 @@
 // Скрипт для очистки стены
-// Запускать на открытой стене со всеми записями 
+// Запускать на открытой стене со всеми записями (прокрутить страницу вниз до конца)
 (function() {
     'use strict';
     var mylist = document.body.querySelectorAll('a.ui_actions_menu_item[onclick^="wall.deletePost"]');

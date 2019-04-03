@@ -1,5 +1,5 @@
 // Скрипт для очистки списка видео
-// Запускать на странице с видео, например, https://vk.com/video
+// Запускать на странице с вашими видео или видео в группе
 (function() {
     'use strict';
     var mylist = document.body.querySelectorAll('div.video_thumb_action_delete');

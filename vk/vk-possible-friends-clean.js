@@ -1,5 +1,5 @@
 // Скрипт для очистки списка возможных друзей
-// Запускать на странице https://vk.com/friends?act=find
+// Запускать на странице https://vk.com/friends?act=find (прокрутить страницу вниз до конца)
 (function() {
     'use strict';
     var mylist = document.body.querySelectorAll('a.friends_find_user_remove');

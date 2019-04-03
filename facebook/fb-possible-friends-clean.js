@@ -1,5 +1,5 @@
 // Скрипт для очистки списка возможных друзей
-// Запускать на странице https://www.facebook.com/friends/requests/?fcref=swpsa
+// Запускать на странице https://www.facebook.com/friends/requests/?fcref=swpsa (прокрутить страницу вниз до конца)
 (function() {
     'use strict';
     var mylist = document.body.querySelectorAll('div.friendBrowserAddAsFriend > a');
