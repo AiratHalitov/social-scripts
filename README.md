@@ -27,6 +27,8 @@
 
 ### [YouTube](https://github.com/AiratHalitov/social-scripts/tree/master/youtube) 
 * `yt-liked-video-clean.js` Скрипт для очистки списка понравившихся видео
+* [vidIQ](https://vidiq.com) - Расширение для работы с YouTube. Помогает смотреть статистику по видео, рейтинг, делать массовое редактирование описания видео и т.д. ([расширение для Chrome](https://chrome.google.com/webstore/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl))
+* [TubeBuddy](https://www.tubebuddy.com/getfree) - Расширение для работы с YouTube: массовое редактирование, копирование заставок, подсказок, менеджер комментариев и т.д. ([расширение для Chrome](https://chrome.google.com/webstore/detail/tubebuddy-for-youtube/mhkhmbddkmdggbhaaaodilponhnccicb))
 * ... список регулярно пополняется
 
 ### [GitHub](https://github.com/AiratHalitov/social-scripts/tree/master/github) 
