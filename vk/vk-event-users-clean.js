@@ -10,7 +10,7 @@ function sleep(ms) {
     if (!confirm('Start: ' + mylist.length + '?')) return;
     for (var i = 0; i < mylist.length; i++) {
         mylist[i].click();
-        sleep(11); // Задержка в мс.
+        sleep(11); // Задержка (в мс)
     }
     alert('Finish: ' + mylist.length + '!');
 }());

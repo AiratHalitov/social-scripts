@@ -1,9 +1,11 @@
+// Скрипт для очистки стены
+// Запускать на открытой стене со всеми записями 
 (function() {
     'use strict';
-    if (!confirm('Удалить все записи со стены?')) return;
-    var deletePostLink = document.body.querySelectorAll('a.ui_actions_menu_item[onclick^="wall.deletePost"]');
-    for (var i = 0; i < deletePostLink.length; i++) {
-        deletePostLink[i].click();
+    var mylist = document.body.querySelectorAll('a.ui_actions_menu_item[onclick^="wall.deletePost"]');
+    if (!confirm('Start: ' + mylist.length + '?')) return;
+    for (var i = 0; i < mylist.length; i++) {
+        mylist[i].click();
     }
-    alert(deletePostLink.length + ' posts deleted');
+    alert('Finish: ' + mylist.length + '!');
 }());

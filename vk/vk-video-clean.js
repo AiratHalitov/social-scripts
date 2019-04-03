@@ -1,9 +1,11 @@
+// Скрипт для очистки списка видео
+// Запускать на странице с видео, например, https://vk.com/video
 (function() {
     'use strict';
-    if (!confirm('Удалить все Видео?')) return;
-    var deletePostLink = document.body.querySelectorAll('div.video_thumb_action_delete');
-    for (var i = 0; i < deletePostLink.length; i++) {
-        deletePostLink[i].click();
+    var mylist = document.body.querySelectorAll('div.video_thumb_action_delete');
+    if (!confirm('Start: ' + mylist.length + '?')) return;
+    for (var i = 0; i < mylist.length; i++) {
+        mylist[i].click();
     }
-    alert(deletePostLink.length + ' posts deleted');
+    alert('Finish: ' + mylist.length + '!');
 }());

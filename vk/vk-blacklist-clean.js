@@ -1,10 +1,11 @@
-
+// Скрипт для очистки черного списка
+// Запускать на странице https://vk.com/settings?act=blacklist
 (function() {
     'use strict';
-    if (!confirm('Очистить черный список?')) return;
-    var deletePostLink = document.body.querySelectorAll('div.settings_bl_action > a');
-    for (var i = 0; i < deletePostLink.length; i++) {
-        deletePostLink[i].click();
+    var mylist = document.body.querySelectorAll('div.settings_bl_action > a');
+    if (!confirm('Start: ' + mylist.length + '?')) return;
+    for (var i = 0; i < mylist.length; i++) {
+        mylist[i].click();
     }
-    alert(deletePostLink.length + ' user deleted');
+    alert('Finish: ' + mylist.length + '!');
 }());
