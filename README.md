@@ -11,6 +11,7 @@
 * `vk-possible-friends-clean.js` Скрипт для очистки списка [возможных друзей](https://vk.com/friends?act=find)
 * `vk-grp-subs-clean.js` Скрипт для удаления пользователей из группы по списку ID. Запускать [тут](https://vk.com/dev/groups.removeUser)
 * `vk-subs-clean.js` Скрипт для удаления подписчиков/друзей пользователя по списку ID. Запускать [тут]( https://vk.com/dev/account.ban). Через пару часов нужно почистить ЧС через `vk-blacklist-clean.js`
+* [Поиск «мёртвых» участников и подписчиков](https://vk.com/app2732533) - приложение VK для поиска заблокированных и удаленных пользователей (собачек) среди подписчиков страниц пользователей и групп
 * ... список регулярно пополняется
 
 ### [Facebook](https://github.com/AiratHalitov/social-scripts/tree/master/facebook) 
