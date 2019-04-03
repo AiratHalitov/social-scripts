@@ -1,12 +1,7 @@
-function sleep(milliseconds) {
-    var start = new Date().getTime();
-    for (var i = 0; i < 1e7; i++) {
-        if ((new Date().getTime() - start) > milliseconds){
-            break;
-        }
-    }
+function sleep(ms) {
+    ms += new Date().getTime();
+    while (new Date() < ms){}
 }
-
 (function() {
     'use strict';
     // Запускать на странице https://vk.com/dev/account.ban
