@@ -2,7 +2,7 @@
 
 * `fb-possible-friends-clean.js` Скрипт для очистки списка [возможных друзей](https://www.facebook.com/friends/requests/?fcref=swpsa)
 * `fb-recommended-groups-clean.js` Скрипт для очистки списка [рекомендуемых групп](https://www.facebook.com/groups/?category=top)
-* [Расширение для Google Chrome](https://chrome.google.com/webstore/detail/invite-all-friends-on-fac/inmmhkeajgflmokoaaoadgkhhmibjbpj?hl=ru) для приглашения друзей на встречу или лайкнуть страницу (в один клик)
+* [Invite All Friends on Facebook](https://chrome.google.com/webstore/detail/invite-all-friends-on-fac/inmmhkeajgflmokoaaoadgkhhmibjbpj?hl=ru) - расширение для Google Chrome для быстрого (в один клик) приглашения всех друзей на встречу или лайкнуть страницу
 * ... список регулярно пополняется
 
 ## Как внести свой вклад?
