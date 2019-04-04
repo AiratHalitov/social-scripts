@@ -3,6 +3,7 @@
 * `vk-wall-clean.js` Скрипт для очистки стены
 * `vk-event-users-clean.js` Скрипт для очистки пользователей групп и встреч
 * `vk-video-clean.js` Скрипт для очистки списка [видео](https://vk.com/video)
+* `vk-audio-clean.js` Скрипт для очистки списка [аудиозаписей](https://m.vk.com/audio)
 * `vk-blacklist-clean.js` Скрипт для очистки [черного списка](https://vk.com/settings?act=blacklist)
 * `vk-possible-friends-clean.js` Скрипт для очистки списка [возможных друзей](https://vk.com/friends?act=find)
 * `vk-grp-subs-clean.js` Скрипт для удаления пользователей из группы по списку ID. Запускать [тут](https://vk.com/dev/groups.removeUser)
