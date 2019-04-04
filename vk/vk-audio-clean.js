@@ -1,5 +1,5 @@
 // Скрипт для очистки списка аудиозаписей
-// Запускать на странице с вашими аудио в мобильной версии https://m.vk.com/audio
+// Запускать на странице с вашими аудио в мобильной версии https://m.vk.com/audio (прокрутить страницу вниз до конца)
 (function() {
     'use strict';
     var mylist = document.body.querySelectorAll('div.ai_menu > div.ai_del');
