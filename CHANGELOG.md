@@ -1,7 +1,16 @@
 ## История изменений:
 
+### v1.9.0 (2019-04-30)
+* `vk-out-requests-clean.js` Скрипт для очистки списка [исходящих запросов](https://vk.com/friends?section=out_requests) в друзья
+
 ### v1.8.0 (2019-04-18)
 * `vk-publics-clean.js` Скрипт для очистки подписок на паблики
+
+### v1.7.0 (2019-04-04)
+* `vk-audio-clean.js` Скрипт для очистки списка [аудиозаписей](https://m.vk.com/audio)
+* [Invite All Friends on Facebook](https://chrome.google.com/webstore/detail/invite-all-friends-on-fac/inmmhkeajgflmokoaaoadgkhhmibjbpj?hl=ru) - расширение для Google Chrome для быстрого (в один клик) приглашения всех друзей на встречу или лайкнуть страницу
+* [vidIQ](https://vidiq.com) - Расширение для работы с YouTube. Помогает смотреть статистику по видео, рейтинг, делать массовое редактирование описания видео и т.д. ([расширение для Chrome](https://chrome.google.com/webstore/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl))
+* [TubeBuddy](https://www.tubebuddy.com/getfree) - Расширение для работы с YouTube: массовое редактирование, копирование заставок, подсказок, менеджер комментариев и т.д. ([расширение для Chrome](https://chrome.google.com/webstore/detail/tubebuddy-for-youtube/mhkhmbddkmdggbhaaaodilponhnccicb))
 
 ### v1.6.1 (2019-04-03)
 * Рефакторинг кода скриптов и добавление комментариев. Теперь все скрипты стандартизированы
