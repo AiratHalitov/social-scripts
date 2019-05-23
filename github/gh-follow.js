@@ -12,5 +12,5 @@ function sleep(ms) {
         mylist[i].click();
         sleep(750); // Задержка (в мс)
     }
-    alert('Finish: ' + mylist.length + '!');
+    alert('Finish: ' + i + '!');
 }());

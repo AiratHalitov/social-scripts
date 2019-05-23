@@ -18,5 +18,5 @@ function sleep(ms) {
         buttonLink.click();
         sleep(2000); // задержка 2 секунды между запросами (в мс)
     }
-    alert('Finish: ' + mylist.length + '!');
+    alert('Finish: ' + i + '!');
 }());

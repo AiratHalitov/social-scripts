@@ -7,5 +7,5 @@
     for (var i = 0; i < mylist.length; i++) {
         mylist[i].click();
     }
-    alert('Finish: ' + mylist.length + '!');
+    alert('Finish: ' + i + '!');
 }());
