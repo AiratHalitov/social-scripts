@@ -1,5 +1,8 @@
 ## История изменений:
 
+### v1.14.0 (2020-08-21)
+* `vk-friends-clean.js` Скрипт для очистки [списка друзей](https://vk.com/friends)
+
 ### v1.13.0 (2020-05-28)
 * `vk-comments-clean.js` Скрипт для удаления комментариев по списку. Запускать [тут](https://vk.com/dev/wall.deleteComment)
 * `vk-post-suggest.js` Скрипт для предложения постов в группы по списку ID. Запускать [тут](https://vk.com/dev/wall.post)
