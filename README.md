@@ -18,6 +18,7 @@ _С уважением, [Айрат Халитов](https://github.com/AiratHali
 * `vk-publics-clean.js` Скрипт для очистки подписок на паблики
 * `vk-possible-friends-clean.js` Скрипт для очистки списка [возможных друзей](https://vk.com/friends?act=find)
 * `vk-friends-add.js` Скрипт для добавления в друзья пользователей по списку ID
+* `vk-friends-clean.js` Скрипт для очистки [списка друзей](https://vk.com/friends)
 * `vk-grp-subs-clean.js` Скрипт для удаления пользователей из группы по списку ID. Запускать [тут](https://vk.com/dev/groups.removeUser)
 * `vk-subs-clean.js` Скрипт для удаления подписчиков/друзей пользователя по списку ID. Запускать [тут](https://vk.com/dev/account.ban). Через пару часов нужно почистить ЧС через `vk-blacklist-clean.js`
 * `vk-out-requests-clean.js` Скрипт для очистки списка [исходящих запросов](https://vk.com/friends?section=out_requests) в друзья
