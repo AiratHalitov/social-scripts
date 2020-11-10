@@ -29,9 +29,6 @@ _С уважением, [Айрат Халитов](https://github.com/AiratHali
 * [Посты](https://vk.com/app3876642) - приложение ВКонтакте для анализа постов пользователей и сообществ. Просмотр истории постов, поиск популярных постов, фильтрация, выгрузка в CSV и JSON.
 * ... список регулярно пополняется
 
-### Facebook
-* [Invite All Friends on Facebook](https://chrome.google.com/webstore/detail/invite-all-friends-on-fac/inmmhkeajgflmokoaaoadgkhhmibjbpj?hl=ru) - расширение для Google Chrome для быстрого (в один клик) приглашения всех друзей на встречу или лайкнуть страницу
-
 ### Twitter
 * [TwitWipe](https://twitwipe.com/) - Скрипт для удаления всех опубликованных твитов в один клик
 
