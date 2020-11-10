@@ -29,25 +29,20 @@ _С уважением, [Айрат Халитов](https://github.com/AiratHali
 * [Посты](https://vk.com/app3876642) - приложение ВКонтакте для анализа постов пользователей и сообществ. Просмотр истории постов, поиск популярных постов, фильтрация, выгрузка в CSV и JSON.
 * ... список регулярно пополняется
 
-### [Facebook](https://github.com/AiratHalitov/social-scripts/tree/master/facebook) 
-* `fb-possible-friends-clean.js` Скрипт для очистки списка [возможных друзей](https://www.facebook.com/friends/requests/?fcref=swpsa)
-* `fb-recommended-groups-clean.js` Скрипт для очистки списка [рекомендуемых групп](https://www.facebook.com/groups/?category=top)
+### Facebook
 * [Invite All Friends on Facebook](https://chrome.google.com/webstore/detail/invite-all-friends-on-fac/inmmhkeajgflmokoaaoadgkhhmibjbpj?hl=ru) - расширение для Google Chrome для быстрого (в один клик) приглашения всех друзей на встречу или лайкнуть страницу
-* ... список регулярно пополняется
 
-### [Twitter](https://github.com/AiratHalitov/social-scripts/tree/master/twitter)
+### Twitter
 * [TwitWipe](https://twitwipe.com/) - Скрипт для удаления всех опубликованных твитов в один клик
-* ... список регулярно пополняется
 
-### [YouTube](https://github.com/AiratHalitov/social-scripts/tree/master/youtube) 
+### YouTube
 * `yt-liked-video-clean.js` Скрипт для очистки списка понравившихся видео
 * [vidIQ](https://vidiq.com) - Расширение для работы с YouTube. Помогает смотреть статистику по видео, рейтинг, делать массовое редактирование описания видео и т.д. ([расширение для Chrome](https://chrome.google.com/webstore/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl))
 * [TubeBuddy](https://www.tubebuddy.com/getfree) - Расширение для работы с YouTube: массовое редактирование, копирование заставок, подсказок, менеджер комментариев и т.д. ([расширение для Chrome](https://chrome.google.com/webstore/detail/tubebuddy-for-youtube/mhkhmbddkmdggbhaaaodilponhnccicb))
-* ... список регулярно пополняется
 
 ### [GitHub](https://github.com/AiratHalitov/social-scripts/tree/master/github) 
 * `gh-follow.js` Скрипт для подписки на пользователей (лимит: 500 в день или в 12 часов)
-* ... список регулярно пополняется
+
 
 ## Как использовать?
 1. Зайти на нужную страницу соцсети, авторизоваться и выбрать подходящий скрипт.
