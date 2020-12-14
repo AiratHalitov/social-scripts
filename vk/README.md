@@ -38,8 +38,5 @@
 ## Что обновилось?
 Полная история изменений в файле [CHANGELOG.md](https://github.com/AiratHalitov/social-scripts/blob/master/CHANGELOG.md)
 
-## Как внести свой вклад?
-Решили помочь в развитии проекта? Тогда вам нужен файл [CONTRIBUTING.md](https://github.com/AiratHalitov/social-scripts/blob/master/CONTRIBUTING.md)
-
 ## Ошибка / Идея / Вопрос?
 Сообщить о найденной ошибке, предложить свою идею или задать вопрос можно [на этой странице](https://github.com/AiratHalitov/social-scripts/issues). Просто кликните по зеленой кнопке **[New issue](https://github.com/AiratHalitov/social-scripts/issues/new/choose)** и выберите подходящий вариант.
