@@ -30,8 +30,8 @@ _С уважением, [Айрат Халитов](https://github.com/AiratHali
 * ... список регулярно пополняется
 
 ### YouTube
-* [vidIQ](https://airat.biz/r/vidiq) - Расширение для работы с YouTube. Помогает смотреть статистику по видео, рейтинг, делать массовое редактирование описания видео и т.д. ([расширение для Chrome](https://chrome.google.com/webstore/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl))
 * [TubeBuddy](https://airat.biz/r/tubebuddy) - Расширение для работы с YouTube: массовое редактирование, копирование заставок, подсказок, менеджер комментариев и т.д. ([расширение для Chrome](https://chrome.google.com/webstore/detail/tubebuddy-for-youtube/mhkhmbddkmdggbhaaaodilponhnccicb))
+* [vidIQ](https://airat.biz/r/vidiq) - Расширение для работы с YouTube. Помогает смотреть статистику по видео, рейтинг, делать массовое редактирование описания видео и т.д. (как TubeBuddy) ([расширение для Chrome](https://chrome.google.com/webstore/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl))
 
 ### Twitter
 * [TwitWipe](https://twitwipe.com/) - Скрипт для удаления всех опубликованных твитов в один клик
